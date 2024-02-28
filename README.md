@@ -1,4 +1,4 @@
-SwiggyUI : 
+SwiggyUI : This is just demo app where i have taken reference from Swiggy application and tried to create multiple screens using same 
 
 In this SwiftUI code snippet, I have demonstrated how to present a bottom half sheet using various SwiftUI features:
 
