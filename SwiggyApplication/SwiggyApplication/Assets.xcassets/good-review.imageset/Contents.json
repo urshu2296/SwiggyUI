@@ -1,0 +1,12 @@
+{
+  "images" : [
+    {
+      "filename" : "good-review.png",
+      "idiom" : "universal"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
